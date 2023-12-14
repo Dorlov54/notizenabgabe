@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959933684970",
+    "project_id": "notizenn-ad09f",
+    "storage_bucket": "notizenn-ad09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959933684970:android:78885f0ab99f6b05438b93",
+        "android_client_info": {
+          "package_name": "com.example.notizen_apppp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2JWzB6YFwnFQeDNf2jwIdnAHye6VJCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959933684970:android:5890915a17a3f18b438b93",
+        "android_client_info": {
+          "package_name": "com.example.notizenabgabe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2JWzB6YFwnFQeDNf2jwIdnAHye6VJCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
